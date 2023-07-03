@@ -1,6 +1,6 @@
 # Convey Engineering Take-Home Exercise - MERN Stack
 
-***(2020.11.10 writen by Cristian P.)***
+***(2023.7.3 writen by Milos B)***
 
 ## Requirement
 
